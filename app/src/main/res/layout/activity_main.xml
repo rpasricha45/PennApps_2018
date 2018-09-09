@@ -36,7 +36,7 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
-            android:textColor="#000"
+            android:textColor="#FF8C00"
             android:textColorHint="#000"
             android:hint="send"
             android:imeActionLabel="send"
